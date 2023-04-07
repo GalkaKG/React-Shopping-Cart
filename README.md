@@ -1,5 +1,5 @@
 # React-Shopping-Cart
-Workshop JS Front-end February 2023
+Workshop JS Front-end February 2023 - https://softuni.bg/
 
 <img src="https://github.com/GalkaKG/React-Shopping-Cart/blob/main/React%20Shopping%20Cart.png" />
 <hr/>
